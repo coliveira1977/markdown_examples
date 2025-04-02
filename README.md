@@ -4,10 +4,10 @@ CKEditor 5 can be configured to output Markdown instead of HTML. Markdown is a l
 
 The editor-produced Markdown output supports most essential features, like links, different kinds of emphasis, inline code formatting, or code blocks:
 
-p {
-    text-align: center;
-    color: red;
-}
+    p {
+        text-align: center;
+        color: red;
+    }
 
 Markdown input 🛬
 

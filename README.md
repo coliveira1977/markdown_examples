@@ -37,17 +37,17 @@ Inline formatting
 
 Shh! 🤫 Markdown has very basic support for tables. Some advanced table-related features like table or cell styling were disabled in this demo.
 
-Block formatting
+***Block formatting***
 
 You can also use Markdown to create various text blocks, such as:
 
-Block quotes - Start a line with ﹥ followed by a space.
+*Block quotes* - Start a line with ﹥ followed by a space.
 
-Headings:Heading 1 - Start a line with # followed by a space.
+*Headings:Heading 1* - Start a line with # followed by a space.
 
-Heading 2 - Start a line with ## followed by a space.
+*Heading 2* - Start a line with ## followed by a space.
 
-Heading 3 - Start a line with ### followed by a space.
+*Heading 3* - Start a line with ### followed by a space.
 
 Lists, including nested ones:Numbered lists - Start a line with 1. or 1) followed by a space.
 

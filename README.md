@@ -37,10 +37,6 @@ Inline formatting
 
 Shh! 🤫 Markdown has very basic support for tables. Some advanced table-related features like table or cell styling were disabled in this demo.
 
-***Block formatting***
-
-You can also use Markdown to create various text blocks, such as:
-
 | Inline formatting | Shortcut |
 | --- | --- |
 | **Bold** | Type `**` or `__` around your text. |
@@ -48,12 +44,12 @@ You can also use Markdown to create various text blocks, such as:
 | `Code` | Type `ˋ` around your text. |
 | ~Strikethrough~ | Type `~~` around your text. |
 
-Lists, including nested ones:Numbered lists - Start a line with 1. or 1) followed by a space.
+## Block formatting
 
-Bulleted lists - Start a line with * or - followed by a space.
+You can also use Markdown to create various text blocks, such as:
 
-To-do lists - Start a line with [ ] or [x] followed by a space to insert an unchecked or checked list item.
-
-Code blocks - Start a line with ˋˋˋ.
-
-Horizontal lines - Start a line with ---
+*   Block quotes - Start a line with `﹥` followed by a space.
+*   Headings:
+    1.  Heading 1 - Start a line with `#` followed by a space.
+    2.  Heading 2 - Start a line with `##` followed by a space.
+    3.  Heading 3 - Start a line with `###` followed by a space.

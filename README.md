@@ -11,29 +11,29 @@ The editor-produced Markdown output supports most essential features, like links
         color: red;
     }
 
-Markdown input 🛬
+***Markdown input 🛬***
 
 Thanks to the autoformatting feature, you can use Markdown syntax when writing. Try it out - use these (or any other) Markdown shortcuts in the editor to format the content on the fly 🚀!
 
 Inline formatting
 
-Shortcut
+***Shortcut***
 
-Bold
+    Bold
 
-Type ** or __ around your text.
+    Type ** or __ around your text.
 
-Italic
+***Italic***
 
-Type * or _ around your text.
+    Type * or _ around your text.
 
-Code
+***Code***
 
-Type ˋ around your text.
+    Type ˋ around your text.
 
-Strikethrough
+***Strikethrough***
 
-Type ~~ around your text.
+    Type ~~ around your text.
 
 Shh! 🤫 Markdown has very basic support for tables. Some advanced table-related features like table or cell styling were disabled in this demo.
 
